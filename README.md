@@ -13,9 +13,9 @@ The software would also have a separate portal wherein the medical centres and h
          For eg.  If a victim at a medical centre is in need of an urgent blood transfusion, an alert for the same can be put up on that portal and the hospital that can provide that particular blood group (these details are pre-loaded into the software’s database after verification with a medical practitioner) can get the patient air-lifted to their hospital.   
 The application will also have an open to all interface, wherein anybody who is in need of some specific help can put up a message and the software would automatically forward that message to
 
-         1. All relief/rescue forces and medical centres.
+         1. All relief/rescue forces and medical centres
          2. Relatives of the person in question, whose details would be pre-loaded into the software’s  
-              Database.
+              Database
 This would be of great help to anybody in need of urgent help, particularly during and after a disaster.
 Anybody who is in a position to help can then directly get in touch with the person via the same platform.
   *
